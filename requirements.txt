@@ -1,0 +1,3 @@
+# Root convenience file - installs the same dependencies as backend/requirements.txt
+# Run: pip install -r requirements.txt --break-system-packages   (or use a venv)
+-r backend/requirements.txt
